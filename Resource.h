@@ -1,0 +1,10 @@
+//#define IDR_SUDOKUMENU  101
+//#define IDI_SUDOKUICON  2O1
+
+#define ID_FILE_OPEN   9001
+#define ID_FILE_SAVE   9002
+#define ID_FILE_SOLVE  9003
+#define ID_FILE_EXIT   9004
+#define ID_HELP_ABOUT  9005
+
+
